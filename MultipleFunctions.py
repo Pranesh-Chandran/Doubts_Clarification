@@ -5,7 +5,6 @@ class multipleFunctions():
         list = ["Machine Learning", "Neural Networks", "Vision", "Robotics", "Speech Processing", "Natural Language Processing", "123"]
         for ls in list:
             print(ls)    
-            """
 # Create a function that checks whether the given number is Odd or Even
     def OddEven():
         num = int(input("Enter your number: "))
@@ -13,4 +12,3 @@ class multipleFunctions():
             print(num, " is Even number")
         else:
             print(num, " is Odd number")
-            """
